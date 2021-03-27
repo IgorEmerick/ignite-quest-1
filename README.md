@@ -9,7 +9,7 @@
 * Mark a to-do as done
 * Delete a to-do
 
-## Business's rules
+## Business rules
 
 * Not create a new user if his username already exist
 * Not list any to-do from an user what don't exist
